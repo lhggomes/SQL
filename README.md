@@ -1,15 +1,37 @@
-**FILES AND ALGORITHMS FOR STUDY** 
+SQL Searches Examples 
+========================================
 
-  This repository was created to storage the files about programming languages and IT Area. Here, we can check a lot of things, including algorithms in Java, SQL and etc. 
-  It's separated by foldes, including the subjects of the university and additonal courses I've done. Areas like Artificial Inteligence are commented here too. 
+About this Repository
+-----------------
 
-
-
-**USEFULL WEBSITES** 
-
-**StackOverflow:** https://stackoverflow.com/ 
-**URI Jugde Online:** https://www.urionlinejudge.com.br/judge/en/login
+This a repository for storage of the SQL Searches I've made working. 
+Here contains examples for checking some operations in Oracle Database. 
 
 
+Table of Contents
+-----------------
+
+-  `Versioning <#versioning>`__
+-  `Authors <#authors>`__
+-  `License <#license>`__
+
+
+Versioning
+----------
+
+We use `Git<http:www.github.com/lhhgomes>`__ for versioning. For the
+versions available, see the `tags on this
+repository <https://github.com/lhggomes/SQL.git>`__.
+
+Authors
+-------
+
+-  **Lucas Henrique Silva Gomes** -
+License
+-------
+
+This is free and unencumbered public domain software. For more
+information, see http://unlicense.org/ or the accompanying
+`UNLICENSE <UNLICENSE>`__ file.
 
 
